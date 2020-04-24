@@ -10,9 +10,13 @@ The specific install steps are as follows, assuming a RHEL8.1 host with libvirt:
 
 **Run on the Ansible server VM**
 `systemctl enable --now cockpit.socket`
+
 `subscription-manager register --activation <name> --org <ID>`
+
 `insights-client --register`
+
 `sudo insights-client --register`
+
 `sudo dnf -y install ansible`
 
 **Install Virtualbox and dependencies**
