@@ -13,7 +13,8 @@ The specific install steps are as follows, assuming a RHEL8.1 host with libvirt:
 subscription-manager register --activation <name> --org <ID>
 insights-client --register
 sudo insights-client --register
-sudo dnf -y install ansible```
+sudo dnf -y install ansible
+```
 
 **Install Virtualbox and dependencies**
 `sudo dnf -y install binutils kernel-devel kernel-headers libgomp make patch gcc glibc-headers glibc-devel dkms`
