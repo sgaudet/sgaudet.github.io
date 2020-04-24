@@ -1,6 +1,6 @@
-I recently shifted my homelab hypervisor from ESXi to KVM running on RHEL8.1. The core Ansible server is running on a VM running Virtualbox. This is so I can test my scripts in an isolated environment.
+I recently shifted my homelab hypervisor from ESXi to KVM running on RHEL8.1. The core Ansible server is running on a VM with Virtualbox. This is so I can test my scripts in an isolated environment.
 
-Versions of the specific software at the time of writing (4/22/2020) are:
+The versions of the software at the time of writing (4/22/2020) were:
 - RHEL: 8.1
 - Ansible 2.9.5
 - Virtualbox: 6.1.6r137129
