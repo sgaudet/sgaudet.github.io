@@ -28,7 +28,7 @@ The specific install steps are as follows, assuming a RHEL8.1 host with libvirt:
 `sudo /usr/lib/virtualbox/vboxdrv.sh setup`
 `sudo dnf install sudo /usr/lib/virtualbox/vboxdrv.sh setup`
 `sudo dnf install kernel-devel kernel-devel-4.18.0-147.el8.x86_64`
-`sudo /usr/lib/virtualbox/vboxdrv.sh setup
+`sudo /usr/lib/virtualbox/vboxdrv.sh setup`
 
 **Install Vagrant**
 `wget https://releases.hashicorp.com/vagrant/2.2.7/vagrant_2.2.7_x86_64.rpm`
