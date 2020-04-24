@@ -42,6 +42,7 @@ sudo dnf -y install vagrant_2.2.7_x86_64.rpm
 virsh # stop ansible
 virsh # edit ansible
 ```
+
 Replace CPU portion in the config with:
-	`<cpu mode='host-passthrough' check='partial'>`
-`virsh # start ansible`
+	```<cpu mode='host-passthrough' check='partial'>```
+```virsh # start ansible```
