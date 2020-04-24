@@ -7,4 +7,4 @@
 - [GE Enbrighten Z-Wave Add-On](https://www.amazon.com/gp/product/B07RQ8K25S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 - [Wyze Cam V2](https://wyze.com/wyze-cam.html)
 - [Wyze Plug](https://wyze.com/wyze-plug.html)
-- [Ecovacs DEEBOT N79S Robotic Vacuum](https://www.amazon.com/Ecovacs-DEEBOT-500-Controls-Self-Charging/dp/B07Q7Y84S6/ref=dp_ob_title_home)
+- [Ecovacs DEEBOT 500 Robot Vacuum](https://www.amazon.com/Ecovacs-DEEBOT-500-Controls-Self-Charging/dp/B07Q7Y84S6/ref=dp_ob_title_home)
