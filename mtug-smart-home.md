@@ -1,4 +1,4 @@
-![mtug](https://mtug.org/Uploads/MTUG201920/MTUGLogo-BYOTechNoshWebinars.jpg "MTUG")
+![](https://mtug.org/Uploads/MTUG201920/MTUGLogo-BYOTechNoshWebinars.jpg =50x)
 
 
 
