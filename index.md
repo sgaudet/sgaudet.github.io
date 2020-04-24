@@ -4,7 +4,3 @@
 - [Dotfiles I use for my Linux/macOS systems](https://github.com/sgaudet/dotfiles)
 
 --
-
-Corporate blog posts:
-- [Vulnerability Prioritization with Nessus Cloud](https://www.tenable.com/blog/vulnerability-prioritization-with-nessus-cloud)
-- [Getting Started with Nessus on Kali Linux](https://www.tenable.com/blog/getting-started-with-nessus-on-kali-linux)
