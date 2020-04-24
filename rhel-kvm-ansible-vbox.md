@@ -9,15 +9,11 @@ Versions of the specific software at the time of writing (4/22/2020) are:
 The specific install steps are as follows, assuming a RHEL8.1 host with libvirt:
 
 **Run on the Ansible server VM**
-`systemctl enable --now cockpit.socket`
-
-`subscription-manager register --activation <name> --org <ID>`
-
-`insights-client --register`
-
-`sudo insights-client --register`
-
-`sudo dnf -y install ansible`
+```systemctl enable --now cockpit.socket
+subscription-manager register --activation <name> --org <ID>
+insights-client --register
+sudo insights-client --register
+sudo dnf -y install ansible```
 
 **Install Virtualbox and dependencies**
 `sudo dnf -y install binutils kernel-devel kernel-headers libgomp make patch gcc glibc-headers glibc-devel dkms`
